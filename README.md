@@ -30,12 +30,11 @@ Interactúa con el bot [_desde aqui_](https://t.me/DiozelyneBot)
 
 ## Chat de usuario
 
-<img alt="Comando /emotion" src="imgs/dz1.jpg" width="300px"/>
-<img alt="Comando /feedback" src="imgs/dz2.jpg" width="300px"/>
+![Comando /emotion](imgs/dz1.jpg) ![Comando /feedback](imgs/dz2.jpg)
 
 ## Chat de admin
 
-<img alt="Chat de admin" src="imgs/dz3.jpg" width="300px"/>
+![Chat de admins](imgs/dz3.jpg)
 
 ## Comandos 
 
